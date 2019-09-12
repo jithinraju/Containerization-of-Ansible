@@ -40,6 +40,8 @@ docker build -t ansible .
 
 #### Add the following files in common directory
 
+I created a directory as **playbook** and added the following files
+
 - ##### inventory.ini
 
 ```bash
